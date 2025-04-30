@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0952-word-subsets) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Gowtham0033/Leetcode-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1524-string-matching-in-an-array](https://github.com/Gowtham0033/Leetcode-questions/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/Gowtham0033/Leetcode-questions/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Gowtham0033/Leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-map-of-highest-peak](https://github.com/Gowtham0033/Leetcode-questions/tree/master/1876-map-of-highest-peak) |
+## Math
+|  |
+| ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Gowtham0033/Leetcode-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
