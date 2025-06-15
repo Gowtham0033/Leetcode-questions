@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0952-word-subsets](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0952-word-subsets) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Gowtham0033/Leetcode-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1524-string-matching-in-an-array](https://github.com/Gowtham0033/Leetcode-questions/tree/master/1524-string-matching-in-an-array) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Gowtham0033/Leetcode-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
