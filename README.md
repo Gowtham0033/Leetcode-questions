@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0001-two-sum) |
 | [0952-word-subsets](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0952-word-subsets) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Gowtham0033/Leetcode-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1524-string-matching-in-an-array](https://github.com/Gowtham0033/Leetcode-questions/tree/master/1524-string-matching-in-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0001-two-sum) |
 | [0952-word-subsets](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0952-word-subsets) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Gowtham0033/Leetcode-questions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Gowtham0033/Leetcode-questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
