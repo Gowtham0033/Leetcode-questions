@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0952-word-subsets](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0952-word-subsets) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Gowtham0033/Leetcode-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0952-word-subsets](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0952-word-subsets) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Gowtham0033/Leetcode-questions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Gowtham0033/Leetcode-questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [1876-map-of-highest-peak](https://github.com/Gowtham0033/Leetcode-questions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Gowtham0033/Leetcode-questions/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Gowtham0033/Leetcode-questions/tree/master/2685-first-completely-painted-row-or-column) |
