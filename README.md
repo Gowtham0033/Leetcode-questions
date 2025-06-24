@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0952-word-subsets](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0952-word-subsets) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Gowtham0033/Leetcode-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
