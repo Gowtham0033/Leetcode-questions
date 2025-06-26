@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0952-word-subsets](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0952-word-subsets) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Gowtham0033/Leetcode-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1524-string-matching-in-an-array](https://github.com/Gowtham0033/Leetcode-questions/tree/master/1524-string-matching-in-an-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0371-sum-of-two-integers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Gowtham0033/Leetcode-questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Matrix
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Gowtham0033/Leetcode-questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
