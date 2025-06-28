@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [1876-map-of-highest-peak](https://github.com/Gowtham0033/Leetcode-questions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Gowtham0033/Leetcode-questions/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Gowtham0033/Leetcode-questions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -111,5 +113,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Gowtham0033/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
