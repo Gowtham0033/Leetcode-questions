@@ -4,7 +4,7 @@ class Solution {
         
         while (sb.length() < k) {
             int len = sb.length();
-            for (int i = 0; i < len && sb.length() < k; i++) {
+            for (int i = 0; i < len; i++) {
                 char nextChar = (char) ((sb.charAt(i) - 'a' + 1) % 26 + 'a');
                 sb.append(nextChar);
             }
