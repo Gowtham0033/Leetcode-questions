@@ -1,15 +1,8 @@
 class Solution {
     public char kthCharacter(int k) {
-        StringBuilder sb = new StringBuilder("a");
-        
-        while (sb.length() < k) {
-            int len = sb.length();
-            for (int i = 0; i < len; i++) {
-                char nextChar = (char) ((sb.charAt(i) - 'a' + 1) % 26 + 'a');
-                sb.append(nextChar);
-            }
-        }
-        
-        return sb.charAt(k - 1); 
+
+        int position = Integer.bitCount(k - 1);
+
+        return (char) ('a' + position);
     }
 }
